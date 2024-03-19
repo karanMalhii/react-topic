@@ -1,0 +1,10 @@
+.mycard {
+  background-color: lightblue;
+}
+.parent {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
